@@ -1,4 +1,4 @@
-# Hi 👋 I'm ZARHDR
+# Hi 👋 I'm ZARRA HEYDARI
 
 💻 Computer Science | Python Developer
 
